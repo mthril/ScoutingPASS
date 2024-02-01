@@ -6,7 +6,7 @@ Sub Save1QR()
 End Sub
 
 Sub processHardCodedData()
-    saveData ("s=fudd;e=2022carv;l=qm;m=2;r=r2;t=2451;as=[35];asg=[3,4];acc=1;acs=1;am=1;ad=e;tct=[8.3,7.3,6.7,7.1,5.5,5.8,5.4];tsg=[5,6,7,8,9,1,2];tfc=0;wf=0;wd=0;who=;lnk=1;fpu=b;dt=9.9;fs=e;dn=2;ds=v;ls=5;dr=x;sd=1;sr=5;die=0;tip=0;dc=0;all=1;co=PWNAGE")
+    saveData ("s=TheBestScouter;e=2022carv;l=qm;m=2;r=r2;t=818;as=[35];al=1;aas=1;ass=1;tas=5;tss=2;tta=0;tpu=f;dt=6.8;who=;dr=x;nit=1;ds=x;dr=e;sr=5;die=0;tip=1;dn=0;all=1;co=Stevie Scout")
     
     ActiveWorkbook.Save
 End Sub
